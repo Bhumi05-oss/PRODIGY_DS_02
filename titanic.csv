@@ -1,0 +1,7 @@
+PassengerId,Survived,Sex,Age
+1,0,male,22
+2,1,female,38
+3,1,female,26
+4,1,female,35
+5,0,male,35
+6,0,male,
